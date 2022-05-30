@@ -1,1 +1,6 @@
-var person = '{"name":"Zhanna_Saroka","age":27 ,"animal": "cat", "salary": 500 }';
+{
+  "name":"Zhanna_Saroka",
+"age":27 ,
+"animal": "cat", 
+"salary": 500.
+}
