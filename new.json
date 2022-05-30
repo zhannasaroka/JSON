@@ -1,4 +1,1 @@
-var name = "Zhanna Saroka";
-var age = 27;
-var animal = "cat";
-var salary = 500.
+var person = '{"name":"Zhanna_Saroka","age":27 ,"animal": "cat", "salary": 500 }';
