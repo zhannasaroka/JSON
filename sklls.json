@@ -1,1 +1,5 @@
-var skills = '{"git": ["gitbash", "github"], "api":["http","json"], "lang":"JS"}';
+{
+  "git": ["gitbash", "github"], 
+  "api":["http","json"], 
+  "lang":"JS"
+}
